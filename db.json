@@ -1,0 +1,432 @@
+{
+  "alunos": [
+    {
+      "nome": "TESTE",
+      "matricula": "1234",
+      "curso": "Redes",
+      "id": 3
+    },
+    {
+      "nome": "TESTE",
+      "matricula": "1234",
+      "curso": "Redes",
+      "id": 4
+    },
+    {
+      "nome": "TESTE",
+      "matricula": "123",
+      "curso": "Sistemas para internet",
+      "id": 5
+    }
+  ],
+  "disciplinas": [
+    {
+      "id": 1,
+      "nome": "Introdução a progração com scripts",
+      "cargaHoraria": "36h",
+      "professor": "Tiago Daniel Fernando Baptista",
+      "status": "Obrigatória",
+      "observacos": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 2,
+      "nome": "Fundamentos da Computação",
+      "cargaHoraria": "60h",
+      "professor": "Marcela Vera Mendes",
+      "status": "Obrigatória",
+      "observacos": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 2,
+      "nome": "Linguagens de Marcação",
+      "cargaHoraria": "67h",
+      "professor": "Marcela Vera Mendes",
+      "status": "Obrigatória",
+      "observacos": "Lorem ipsum dolor sit amet consectetur adipisicing."
+    },
+    {
+      "id": 3,
+      "nome": "Português Instrumental",
+      "cargaHoraria": "50h",
+      "professor": "Maitê Analu Carolina Aragão",
+      "status": "Opcional",
+      "observacos": "Lorem ipsum dolor sit adipisicing elit."
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "disciplina": "TESTE",
+      "cargaHoraria": "12",
+      "professor": "TESTE",
+      "status": "Obrigatória",
+      "id": 7
+    },
+    {
+      "disciplina": "TESTE",
+      "cargaHoraria": "12",
+      "professor": "TESTE",
+      "status": "Obrigatória",
+      "id": 8
+    },
+    {
+      "disciplina": "TESTE",
+      "cargaHoraria": "123",
+      "professor": "TESTE",
+      "status": "Obrigatória",
+      "id": 9
+    },
+    {
+      "disciplina": "TESTE",
+      "cargaHoraria": "12",
+      "professor": "TESTE",
+      "status": "Obrigatória",
+      "id": 10
+    },
+    {
+      "disciplina": "TESTE",
+      "cargaHoraria": "12 ",
+      "professor": "TESTE",
+      "status": "Obrigatória",
+      "id": 11
+    },
+    {
+      "disciplina": "TESTE",
+      "cargaHoraria": "15",
+      "professor": "TESTE",
+      "status": "Obrigatória",
+      "id": 12
+    },
+    {
+      "disciplina": "TESSTE",
+      "cargaHoraria": "13123",
+      "professor": "EWR",
+      "status": "Opcional",
+      "id": 13
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "123",
+      "professor": "TESTE",
+      "status": "Opcional",
+      "id": 14
+    },
+    {
+      "disciplina": "TESTE",
+      "cargaHoraria": "123",
+      "professor": "TESTE",
+      "status": "Obrigatória",
+      "id": 15
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 16
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12 ",
+      "professor": "teste",
+      "status": "Opcional",
+      "id": 17
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "15",
+      "professor": "teste",
+      "status": "Opcional",
+      "id": 18
+    },
+    {
+      "disciplina": "tete",
+      "cargaHoraria": "12",
+      "professor": "ttt",
+      "status": "Obrigatória",
+      "id": 19
+    },
+    {
+      "disciplina": "robson",
+      "cargaHoraria": "12",
+      "professor": "ttt",
+      "status": "Obrigatória",
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "disciplina": "editar",
+      "cargaHoraria": "12",
+      "professor": "TESTE",
+      "status": "Obrigatória",
+      "id": 22
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 23
+    },
+    {
+      "disciplina": "test",
+      "cargaHoraria": "1",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 24
+    },
+    {
+      "disciplina": "test",
+      "cargaHoraria": "1",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 25
+    },
+    {
+      "disciplina": "test",
+      "cargaHoraria": "12",
+      "professor": "ttt",
+      "status": "Obrigatória",
+      "id": 26
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "tste",
+      "status": "Opcional",
+      "id": 27
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "tste",
+      "status": "Opcional",
+      "id": 28
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Opcional",
+      "id": 29
+    },
+    {
+      "disciplina": "TES",
+      "cargaHoraria": "12",
+      "professor": "TT",
+      "status": "Opcional",
+      "id": 30
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Opcional",
+      "id": 31
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 32
+    },
+    {
+      "disciplina": "TESTE",
+      "cargaHoraria": "12",
+      "professor": "TESTE",
+      "status": "Obrigatória",
+      "id": 33
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 34
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Opcional",
+      "id": 35
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 36
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 37
+    },
+    {
+      "disciplina": "TESTE",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 38
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 39
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 40
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 41
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 42
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Opcional",
+      "id": 43
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Opcional",
+      "id": 44
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Obrigatória",
+      "id": 45
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Opcional",
+      "id": 46
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "teeste",
+      "status": "Opcional",
+      "id": 47
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "TESTE",
+      "status": "Obrigatória",
+      "id": 48
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "TESTE",
+      "status": "Opcional",
+      "id": 49
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "TESTE",
+      "status": "Opcional",
+      "id": 50
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "TESTE",
+      "status": "Obrigatória",
+      "id": 51
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "1",
+      "professor": "TESTE",
+      "status": "Opcional",
+      "id": 52
+    },
+    {
+      "disciplina": "TESTE",
+      "cargaHoraria": "12",
+      "professor": "TESTE",
+      "status": "Opcional",
+      "id": 53
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "TESTE",
+      "status": "Opcional",
+      "id": 54
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "TESTE",
+      "status": "Obrigatória",
+      "id": 55
+    },
+    {
+      "disciplina": "testre",
+      "cargaHoraria": "12",
+      "professor": "teste",
+      "status": "Opcional",
+      "id": 56
+    },
+    {
+      "disciplina": "TESTE",
+      "cargaHoraria": "12",
+      "professor": "ROVICA",
+      "status": "Obrigatória",
+      "id": 57
+    },
+    {
+      "disciplina": "teste",
+      "cargaHoraria": "12",
+      "professor": "ROVICA",
+      "status": "Opcional",
+      "id": 58
+    },
+    {
+      "disciplina": "JAVA SCRIPT",
+      "cargaHoraria": "20",
+      "professor": "NELIO",
+      "status": "Obrigatória",
+      "id": 59
+    }
+  ]
+}
